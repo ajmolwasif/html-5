@@ -1,0 +1,51 @@
+.flexible{
+    display: flex;
+    margin-bottom: 20px;
+}
+h1{
+    font-size: 70px;
+}
+.half-width{
+    width: 50%;
+}
+.color{
+    color: orange;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 15px;
+    background-color:mediumaquamarine;
+    color: white;
+    margin-right: 30px;
+}
+.tasnim{
+    background-image: url(images/shapes/Group\ 8446.png);
+}
+.tasnim p{
+    text-align:justify;
+    padding-right: 5px;
+}
+.xarif{
+    text-align: center;
+}
+.rofiq{
+    margin: 3% 4% 3% 4%;
+text-align: center;
+border-radius: 30px;
+background: white;
+padding: 2px;
+box-shadow: 0px 0px 20px -5px;
+}
+
+
+.rofiq img{
+    margin: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 200px;
+}
+.subs{
+    width: 33.33%;
+}
